@@ -28,6 +28,7 @@ public class Hauteskundeak {
 		h2012.gehituMahaia("Andoain");
 		h2012.gehituMahaia("Hernani");
 		h2012.gehituMahaia("Bilbao");
+		h2012.gehituMahaia("Bartzelona");
 		
 		System.out.println(h2012);
 	}
